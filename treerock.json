@@ -1,0 +1,42 @@
+{
+    "users": [
+        {}
+    ],
+    "genere": {
+        "rock": {
+            "classic_rock": {
+                "description": "jasgdhk ajshdkash",
+                "bands": [
+                    {
+                        "_id": "132765sadkha86732",
+                        "anni": ["60", "70"],
+                        "is_active_now": false,
+                        "info": {
+                            "country": "Englannd",
+                            "city": "Liverpool",
+                            "birth": "1961",
+                            "description": "akshdka askdjhaksdjh jakshdkashdk",
+                            "name": "beatles",
+                            "players": ["ringo star", "Paul McCurtney"]
+                        },
+                        "discography": [
+                            {
+                                "_id": "32461243",
+                                "anno": "1976",
+                                "nome": "che palle!",
+                                "description": "kasjdhkashdkashd",
+                                "image": "ajgsdja",
+                                "casa_prod": "Pinco pallo music"
+                            }
+                        ],
+                        "tags": ["classic_rock", "pop_rock"]
+                    }
+                ]
+            },
+            "heavy_metal": null,
+            "aor_rock": null,
+            "country_rock": null,
+            "pop_rock": null
+        }
+    }
+}
