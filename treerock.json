@@ -12,11 +12,12 @@
                         "anni": ["60", "70"],
                         "is_active_now": false,
                         "info": {
-                            "country": "Englannd",
+                            "name": "beatles",
+                            "country": "England",
                             "city": "Liverpool",
                             "birth": "1961",
                             "description": "akshdka askdjhaksdjh jakshdkashdk",
-                            "name": "beatles",
+                            
                             "players": ["ringo star", "Paul McCurtney"]
                         },
                         "discography": [
@@ -26,12 +27,80 @@
                                 "nome": "che palle!",
                                 "description": "kasjdhkashdkashd",
                                 "image": "ajgsdja",
-                                "casa_prod": "Pinco pallo music"
+                                "casa_prod": "Pinco pallo music",
+                                "owned": true,
+                                "whishlist": false
                             }
                         ],
                         "tags": ["classic_rock", "pop_rock"]
                     }
-                ]
+                ],
+                "sub_genres": {
+                    "classic_rock_a": {
+                        "description": "jasgdhk ajshdkash",
+                        "bands": [
+                            {
+                                "_id": "132765sadkha86732",
+                                "anni": ["60", "70"],
+                                "is_active_now": false,
+                                "info": {
+                                    "name": "beatles",
+                                    "country": "England",
+                                    "city": "Liverpool",
+                                    "birth": "1961",
+                                    "description": "akshdka askdjhaksdjh jakshdkashdk",
+                                    
+                                    "players": ["ringo star", "Paul McCurtney"]
+                                },
+                                "discography": [
+                                    {
+                                        "_id": "32461243",
+                                        "anno": "1976",
+                                        "nome": "che palle!",
+                                        "description": "kasjdhkashdkashd",
+                                        "image": "ajgsdja",
+                                        "casa_prod": "Pinco pallo music",
+                                        "owned": true,
+                                        "whishlist": false
+                                    }
+                                ],
+                                "tags": ["classic_rock", "pop_rock"]
+                            }
+                        ]
+                    },
+                    "classic_rock_b": {
+                        "description": "jasgdhk ajshdkash",
+                        "bands": [
+                            {
+                                "_id": "132765sadkha86732",
+                                "anni": ["60", "70"],
+                                "is_active_now": false,
+                                "info": {
+                                    "name": "beatles",
+                                    "country": "England",
+                                    "city": "Liverpool",
+                                    "birth": "1961",
+                                    "description": "akshdka askdjhaksdjh jakshdkashdk",
+                                    
+                                    "players": ["ringo star", "Paul McCurtney"]
+                                },
+                                "discography": [
+                                    {
+                                        "_id": "32461243",
+                                        "anno": "1976",
+                                        "nome": "che palle!",
+                                        "description": "kasjdhkashdkashd",
+                                        "image": "ajgsdja",
+                                        "casa_prod": "Pinco pallo music",
+                                        "owned": true,
+                                        "whishlist": false
+                                    }
+                                ],
+                                "tags": ["classic_rock", "pop_rock"]
+                            }
+                        ]
+                    }
+                }
             },
             "heavy_metal": null,
             "aor_rock": null,
