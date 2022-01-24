@@ -29,7 +29,9 @@
                                 "image": "ajgsdja",
                                 "casa_prod": "Pinco pallo music",
                                 "owned": true,
-                                "whishlist": false
+                                "whishlist": false,
+                                "rating": "5/10",
+                                "codice_ean": "425353523523"
                             }
                         ],
                         "tags": ["classic_rock", "pop_rock"]
@@ -61,7 +63,9 @@
                                         "image": "ajgsdja",
                                         "casa_prod": "Pinco pallo music",
                                         "owned": true,
-                                        "whishlist": false
+                                        "whishlist": false,
+                                        "rating": "5/10",
+                                        "codice_ean": "425353523523"
                                     }
                                 ],
                                 "tags": ["classic_rock", "pop_rock"]
@@ -93,7 +97,9 @@
                                         "image": "ajgsdja",
                                         "casa_prod": "Pinco pallo music",
                                         "owned": true,
-                                        "whishlist": false
+                                        "whishlist": false,
+                                        "rating": "5/10",
+                                        "codice_ean": "425353523523"
                                     }
                                 ],
                                 "tags": ["classic_rock", "pop_rock"]
